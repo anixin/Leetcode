@@ -1,3 +1,5 @@
+// TODO in O(1) time
+
 class MyQueue {
 
     Stack<Integer> stack1 = new Stack<>();
