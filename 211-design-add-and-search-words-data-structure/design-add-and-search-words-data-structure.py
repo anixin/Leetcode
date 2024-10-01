@@ -3,6 +3,8 @@
 # obj.addWord(word)
 # param_2 = obj.search(word)
 
+# TODO Again
+
 class TrieNode:
     def __init__(self):
         self.children = {}
